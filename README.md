@@ -45,6 +45,23 @@ python weather-app-prince.py
 
 ---
 
+## 🔐 Environment Setup
+
+This project uses the OpenWeatherMap API.
+
+For security reasons, the API key is not included in the repository.
+
+### Steps to run the project:
+
+1. Create a `.env` file in the root directory
+2. Add your API key inside it:
+
+```env
+OPENWEATHER_API_KEY=your_api_key_here
+
+
+---
+
 ## 🔧 Setup Instructions
 
 1. ✅ Make sure you have Python 3 installed  
