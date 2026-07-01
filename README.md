@@ -19,9 +19,9 @@ It fetches real-time weather data using the OpenWeatherMap API and wraps it in a
 ## Demo Interaction
 
 ```bash
-🌤️ Welcome to Prince Pathak's Weather CLI App!
+🌤️ Welcome to Weather CLI App!
 
-🗺️ Enter city name (or type 'exit' to quit): Delhi
+Enter city name (or type 'exit' to quit): Delhi
 🔎 Fetching weather data...
 
 ✅ Data fetched successfully!
@@ -90,7 +90,7 @@ weather-app-prince
 
 ---
 
-## 📜 License
+## License
 
 Licensed under the [MIT License](./LICENSE)  
-Feel free to use, fork, and improve! 💥
+Feel free to use, fork, and improve!
