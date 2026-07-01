@@ -19,7 +19,7 @@ It fetches real-time weather data using the OpenWeatherMap API and wraps it in a
 ## Demo Interaction
 
 ```bash
-🌤️ Welcome to Weather CLI App!
+Welcome to Weather CLI App!
 
 Enter city name (or type 'exit' to quit): Delhi
 🔎 Fetching weather data...
