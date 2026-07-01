@@ -1,5 +1,5 @@
-# 🌦️ Prince's Weather CLI App
-# Get real-time weather with clean, emoji-driven output!
+# Weather CLI App
+# Get real-time weather with clean output!
 
 import requests
 import time
@@ -42,17 +42,17 @@ def display_weather(data, city):
     time.sleep(2)
 
 def main():
-    print("🌦️ Welcome to Prince Pathak's Weather CLI App!\n")
+    print("Welcome to Weather CLI App!\n")
 
     while True:
-        city = input("🏙️ Enter city name (or type 'exit' to quit): ").strip()
+        city = input("Enter city name (or type 'exit' to quit): ").strip()
 
         if city.lower() == "exit":
-            print("\n👋 Thanks for using Prince’s Weather App. Stay safe!")
+            print("\n Thanks for using Weather App. Stay safe!")
             break
 
         if not city:
-            print("⚠️ Please enter a valid city name.\n")
+            print("Please enter a valid city name.\n")
             continue
 
         print("🔍 Fetching weather data...\n")
@@ -62,8 +62,7 @@ def main():
         if data:
             display_weather(data, city)
         else:
-            print("❌ City not found or network issue. Try again.\n")
+            print("City not found or network issue. Try again.\n")
 
 if __name__ == "__main__":
     main()
-
