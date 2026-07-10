@@ -3,7 +3,7 @@
 ![OpenWeather API](https://img.shields.io/badge/OpenWeather_API-FFB400?style=for-the-badge&logo=openweathermap&logoColor=white)
 
 A terminal-based weather fetching application. 
-It fetches real-time weather data using the OpenWeatherMap API and wraps it in an elegant user experience.  
+It fetches real-time weather data and wraps it in an elegant user experience.  
 
 ---
 
@@ -13,6 +13,13 @@ It fetches real-time weather data using the OpenWeatherMap API and wraps it in a
 - Handles invalid input & API issues
 - API key integration with ease
 - Runs in a loop for multiple queries
+
+---
+
+## Tech Stack
+
+- Python
+- OpenWeather API
 
 ---
 
