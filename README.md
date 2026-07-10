@@ -1,6 +1,8 @@
 # Weather CLI App
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenWeather API](https://img.shields.io/badge/OpenWeather_API-FFB400?style=for-the-badge&logo=openweathermap&logoColor=white)
 
-A beautiful, emoji-rich terminal-based weather application built with Python.  
+A terminal-based weather fetching application. 
 It fetches real-time weather data using the OpenWeatherMap API and wraps it in an elegant user experience.  
 
 ---
