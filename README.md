@@ -12,7 +12,6 @@ It fetches real-time weather data using the OpenWeatherMap API and wraps it in a
 - Get weather by city name instantly
 - Handles invalid input & API issues
 - API key integration with ease
-- Uses `time.sleep()` for a smoother flow
 - Runs in a loop for multiple queries
 
 ---
@@ -58,7 +57,7 @@ For security reasons, the API key is not included in the repository.
 2. Add your API key inside it:
 
 ```env
-OPENWEATHER_API_KEY=your_api_key_here
+OPENWEATHER_API_KEY = your_api_key_here
 ```
 
 ---
