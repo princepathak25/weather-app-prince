@@ -59,7 +59,7 @@ For security reasons, the API key is not included in the repository.
 
 ```env
 OPENWEATHER_API_KEY=your_api_key_here
-
+```
 
 ---
 
