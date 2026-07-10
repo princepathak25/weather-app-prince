@@ -14,11 +14,10 @@ It fetches real-time weather data using the OpenWeatherMap API and wraps it in a
 - API key integration with ease
 - Uses `time.sleep()` for a smoother flow
 - Runs in a loop for multiple queries
-- Polished terminal UI for clean interaction
 
 ---
 
-## Demo Interaction
+## Sample Interaction
 
 ```bash
 Welcome to Weather CLI App!
