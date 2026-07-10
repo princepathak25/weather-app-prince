@@ -10,7 +10,7 @@ It fetches real-time weather data using the OpenWeatherMap API and wraps it in a
 ## Features
 
 - Get weather by city name instantly
-- Handles invalid input & API issues gracefully
+- Handles invalid input & API issues
 - API key integration with ease
 - Uses `time.sleep()` for a smoother flow
 - Runs in a loop for multiple queries
@@ -64,8 +64,7 @@ OPENWEATHER_API_KEY=your_api_key_here
 ---
 
 ## Setup Instructions
-
-1. Make sure you have Python 3 installed  
+  
 2. Get your free API key from [OpenWeatherMap](https://openweathermap.org/api)  
 3. Replace `"YOUR_API_KEY_HERE"` in the script with your actual key
 
@@ -78,20 +77,13 @@ api_key = "your_actual_api_key"
 ## Project Structure
 
 ```
-weather-app-prince
+weather-app-cli
  ┣ weather-app-prince.py
  ┗ README.md
 ```
 
 ---
 
-## Made by **Prince Pathak** 
+## Author 
 
-> Star this repo if you found it useful.
-
----
-
-## License
-
-Licensed under the [MIT License](./LICENSE)  
-Feel free to use, fork, and improve!
+**Prince Pathak**
