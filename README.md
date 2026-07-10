@@ -39,8 +39,8 @@ Enter city name (or type 'exit' to quit): Delhi
 ## How to Run
 
 ```bash
-git clone https://github.com/princepathak25/weather-app-prince.git
-cd weather-app-prince
+git clone https://github.com/princepathak25/weather-app-cli.git
+cd weather-app-cli
 python weather-app-prince.py
 ```
 
